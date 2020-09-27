@@ -1,2 +1,2 @@
-# Ra-unalna-grafika
+# Racunalna-grafika
 Projekt 3d igra
